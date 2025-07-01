@@ -1,9 +1,9 @@
 const projects = [
   {
     title: 'NexaShop',
-    description: 'NexaShop is a sleek, user-friendly e-commerce platform with intuitive product browsing, dynamic filters, and immersive image galleries—delivering a polished shopping experience 🛍️',
+    description: 'NexaShop is a sleek, user-friendly e-commerce platform with intuitive product browsing, dynamic filters, and delivering a polished shopping experience 🛍️',
     image: '/Ecommers.png',
-    tech: ['Vite App', 'React Hooks', 'Tailwind CSS', 'Vercel', 'payment system','framer motion','dynamic filters'],
+    tech: ['React','payment system','framer motion','dynamic filters'],
     github: 'https://github.com/zeeshan-Dev-Engr/NexaShop-Ecommerce',
     live: 'https://nexa-shop-ecommerce.vercel.app/'
   },
@@ -11,15 +11,15 @@ const projects = [
     title: 'Currency Converter',
     description: 'Real-time currency converter using Next.js and Exchange Rate API, featuring responsive design and instant currency swap functionality.',
     image: '/converter.png',
-    tech: ['Next.js', 'Tailwind CSS', 'Exchange Rate API', 'React Hooks', 'Vercel'],
+    tech: ['Next.js', 'Tailwind CSS', 'Exchange Rate API', 'React Hooks',],
     github: 'https://github.com/zeeshan-Dev-Engr/Currency-Converter-Next.js',
     live: 'https://currency-converter-next-js-5wxg.vercel.app/'
   },
   {
     title: 'Travel Guide App',
-    description: 'Travel Guide App is a sleek, intuitive companion offering offline-accessible destination guides, interactive maps, and real-time safety updates—perfectly balancing exploration and reliability 🌍',
+    description: 'Travel Guide App is a sleek, intuitive companion offering offline-accessible destination guides, interactive maps, and perfectly balancing exploration and reliability 🌍',
     image: '/Traval_guide.png',
-    tech: ['Next.js', 'React Hooks', 'Tailwind CSS', 'Vercel','framer motion','map integration'],
+    tech: ['Next.js', 'React Hooks','framer motion','map integration'],
     github: 'https://github.com/zeeshan-Dev-Engr/travel-guide-app',
     live: 'https://travel-guide-app-d4l9.vercel.app/'
   },
@@ -43,7 +43,7 @@ const projects = [
     title: 'Ai Resuma builder',
     description: 'Just put your information.it will give you resuma in pdf form.',
     image: '/Resuma_builder.png',
-    tech: ['Vite App', 'React Hooks', 'Tailwind CSS', 'Vercel', 'state managment'],
+    tech: ['Vite App', 'React Hooks', 'Tailwind CSS','state managment'],
     github: 'https://github.com/zeeshan-Dev-Engr/Netflix-clone',
     live: 'https://todo-next-js-liard.vercel.app/'
   },
@@ -51,7 +51,7 @@ const projects = [
     title: 'Basic Product Management App',
     description: 'Full-stack MERN application for product management with CRUD operations, real-time state management, and responsive design.',
     image: '/product_app.png',
-    tech: ['React', 'Zustand', 'Node.js', 'Express', 'MongoDB', 'Vite', 'Vercel'],
+    tech: ['React', 'Zustand','Express', 'MongoDB'],
     github: 'https://github.com/zeeshan-Dev-Engr/Basic_product_mern_app',
     live: 'https://basic-product-mern-app.vercel.app/'
   },
@@ -59,7 +59,7 @@ const projects = [
     title: 'DevNews',
     description: 'DevNews is a sleek developer news platform that aggregates content from top sources like Medium, Dev.to, Hashnode, TechCrunch, and delivers it directly via a Telegram bot for seamless updates',
     image: '/newdev.png',
-    tech: ['Next.js', 'React Hooks', 'Tailwind CSS', 'Vercel','framer motion'],
+    tech: ['Next.js', 'React Hooks', 'Tailwind CSS','framer motion'],
     github: 'https://github.com/zeeshan-Dev-Engr/devnews-app',
     live: 'https://devnews-app-9np8.vercel.app/'
   },

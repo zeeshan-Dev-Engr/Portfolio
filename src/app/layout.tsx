@@ -21,7 +21,10 @@ export const metadata: Metadata = {
     title: 'Zeeshan Anwar - Full Stack Developer & AI Enthusiast',
     description: 'Portfolio of Zeeshan Anwar - A Computer Science student specializing in full-stack development with MERN stack and AI technologies.',
     type: 'website',
-  }
+  },
+  icons: {
+    icon: '/profile.png',
+  },
 }
 
 export default function RootLayout({
@@ -31,6 +34,9 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en" suppressHydrationWarning>
+      <head>
+        <link rel='icon' href='/profile.png' />
+      </head>
       <body className={`${inter.variable} ${poppins.variable} font-sans`}>
         <ThemeProvider>
           <SmoothScrollHandler />

@@ -35,16 +35,17 @@ const certifications = [
   {
     category: 'Web Development',
     items: [
-      'Intro to Front-End Development – Meta',
+      'Meta Front-End professional certificate',
       'Software Engineering Essentials – Coursera',
-      'HTML, CSS, JS – IBM'
+      'Programming with Javascript by coursera',
+      'Advanced React by Meta'
     ]
   },
   {
     category: 'AI & Python',
     items: [
+      'IBM AI developer professional certificate',
       'Python for Data Science, AI & Development – IBM',
-      'Crash Course on Python - Google',
       'Introduction to AI – IBM',
       'Generative AI – IBM, Coursera'
     ]
